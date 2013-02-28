@@ -17,7 +17,7 @@ public class CollegeCrawler {
 	 * @date 2012-11-21下午12:27:57
 	 */
 	final private String BASE_URL = "http://daxue.learning.sohu.com";
-
+//test
 	public static void main(String[] args) {
 		CollegeCrawler cc = new CollegeCrawler();
 		try {
